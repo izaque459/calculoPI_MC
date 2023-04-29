@@ -1,0 +1,26 @@
+{
+  "name": "calculopi_mc",
+  "version": "1.0.0",
+  "description": "calculo de PI pelo metodo de Monte Carlo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izaque459/calculoPI_MC.git"
+  },
+  "keywords": [
+    "PI",
+    "numeros",
+    "aleatorios",
+    "Monte",
+    "Carlo"
+  ],
+  "author": "Isaac Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izaque459/calculoPI_MC/issues"
+  },
+  "homepage": "https://github.com/izaque459/calculoPI_MC#readme"
+}
